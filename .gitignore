@@ -49,6 +49,7 @@ Thumbs.db
 
 # Local tools
 /DB.Browser.for.SQLite-v3.13.1-win64/
+/sqlite-tools-win-x64-3540100/
 
 # C++ build outputs
 /Add/x64/
