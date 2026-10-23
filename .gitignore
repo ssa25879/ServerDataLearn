@@ -46,3 +46,10 @@ Thumbs.db
 *.key
 *.keystore
 *.jks
+
+# Local tools
+/DB.Browser.for.SQLite-v3.13.1-win64/
+
+# C++ build outputs
+/Add/x64/
+/Add/Add/x64/
