@@ -7,7 +7,7 @@ using UnityEngine.Networking;   // UnityWebRequest: HTTP 요청을 보내는 도
 // 버튼의 OnClick()에 OnClickLoad를 연결한다
 public class MonsterClientSync : MonoBehaviour
 {
-    public string url = "http://localhost:5000/monsters";   // 요청을 보낼 주소. Inspector에서 바꿀 수 있다
+    public string url = "http://localhost:5000/monsters/slow?ms=3000";   // 요청을 보낼 주소. Inspector에서 바꿀 수 있다
     public TMP_Text resultText;                             // 결과를 보여 줄 텍스트. Inspector에서 ResultText를 끌어다 놓는다
 
     // 버튼을 누르면 실행된다
