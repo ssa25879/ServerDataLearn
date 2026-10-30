@@ -54,3 +54,6 @@ Thumbs.db
 # C++ build outputs
 /Add/x64/
 /Add/Add/x64/
+
+# Managed as a separate Git repository
+/GameDataServer/
